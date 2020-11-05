@@ -1,15 +1,19 @@
-﻿{
+{
   "$schema": "http://json.schemastore.org/launchsettings.json",
- 
-  "profiles": {    
+  "profiles": {
     "AL.User.WebApi": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "",
-      "applicationUrl": "http://localhost:1155",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+      "applicationUrl": "http://localhost:1155"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "publishAllPorts": true
     }
   }
 }

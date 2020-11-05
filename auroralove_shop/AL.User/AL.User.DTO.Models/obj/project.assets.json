@@ -8,21 +8,17 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj",
+      "projectUniqueName": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj",
       "projectName": "AL.User.DTO.Models",
-      "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj",
+      "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\obj\\",
+      "outputPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

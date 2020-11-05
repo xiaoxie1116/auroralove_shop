@@ -7,3 +7,13 @@ E:\AuroraLove\auroralove_shop\AL.User\AL.User.Repository\obj\Debug\netcoreapp3.1
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.Repository\obj\Debug\netcoreapp3.1\AL.User.Repository.csproj.CopyComplete
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.Repository\obj\Debug\netcoreapp3.1\AL.User.Repository.dll
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.Repository\obj\Debug\netcoreapp3.1\AL.User.Repository.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\AL.User.Repository.deps.json
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\AL.User.Repository.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\AL.User.Repository.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Repository\obj\Debug\netcoreapp3.1\AL.User.Repository.csprojAssemblyReference.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Repository\obj\Debug\netcoreapp3.1\AL.User.Repository.AssemblyInfoInputs.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Repository\obj\Debug\netcoreapp3.1\AL.User.Repository.AssemblyInfo.cs
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Repository\obj\Debug\netcoreapp3.1\AL.User.Repository.csproj.CoreCompileInputs.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Repository\obj\Debug\netcoreapp3.1\AL.User.Repository.csproj.CopyComplete
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Repository\obj\Debug\netcoreapp3.1\AL.User.Repository.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Repository\obj\Debug\netcoreapp3.1\AL.User.Repository.pdb

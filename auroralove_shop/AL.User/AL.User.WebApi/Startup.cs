@@ -53,10 +53,8 @@ namespace AL.User.WebApi
             services.AddSingleton(new AL.Common.Tools.LoggerHelper.Log4netHelper());
             //日志AOP注册   
             services.AddSingleton(new AL.Common.Tools.LoggerLock(Env.ContentRootPath));
-
             //注册要通过反射创建的组件
             var basePath = Path.GetDirectoryName(typeof(Program).Assembly.Location); //获取应用程序所在目录（绝对，不受工作目录影响，建议采用此方法获取路径）
-
             //代码是必需的 没有的话，MiniProfiler会抛出错误
             services.AddMemoryCache();
             //sqlsugar
@@ -70,17 +68,16 @@ namespace AL.User.WebApi
             //MiniProfiler 
             services.AddMiniProfilerSetup();
             // Swagger UI
-            services.AddSwaggerSetup(basePath, "HC.NewSystem.WebApi.xml", "AL.User.DTO.Models.xml");
+            services.AddSwaggerSetup(basePath, "AL.WebApi.xml", "AL.User.DTO.Models.xml");
             //Jwt授权
             services.AddAuthorizationSetup();
-            //CAP
-            services.AddCapSetup();
+            //CAP //暂时不用
+            //services.AddCapSetup();
             //request 自动验证model
             services.Configure<ApiBehaviorOptions>(options =>
             {
                 options.SuppressModelStateInvalidFilter = true;
             });
-
             services.AddControllers(s =>
             {
                 s.Filters.Add(typeof(GlobalExceptionFilter));

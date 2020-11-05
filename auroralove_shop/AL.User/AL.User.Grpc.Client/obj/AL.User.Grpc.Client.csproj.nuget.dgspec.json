@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.Grpc.Client\\AL.User.Grpc.Client.csproj": {}
+    "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Grpc.Client\\AL.User.Grpc.Client.csproj": {}
   },
   "projects": {
-    "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.Grpc.Client\\AL.User.Grpc.Client.csproj": {
+    "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Grpc.Client\\AL.User.Grpc.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.Grpc.Client\\AL.User.Grpc.Client.csproj",
+        "projectUniqueName": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Grpc.Client\\AL.User.Grpc.Client.csproj",
         "projectName": "AL.User.Grpc.Client",
-        "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.Grpc.Client\\AL.User.Grpc.Client.csproj",
+        "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Grpc.Client\\AL.User.Grpc.Client.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.Grpc.Client\\obj\\",
+        "outputPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Grpc.Client\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
