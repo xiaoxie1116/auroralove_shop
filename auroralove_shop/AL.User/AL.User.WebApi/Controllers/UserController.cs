@@ -19,7 +19,8 @@ namespace AL.User.WebApi.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            return Ok("hello word");
+            string str = "hello word";
+            return Ok(str);
         }
     }
 }
