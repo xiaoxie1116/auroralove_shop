@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath></OutputPath>
+    <WarningLevel>2</WarningLevel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MiniProfiler.Shared" Version="4.1.0" />
+    <PackageReference Include="sqlSugarCore" Version="5.0.0.15" />
+    <PackageReference Include="MagicOnion" Version="3.0.13" />
+    <PackageReference Include="MagicOnion.HttpGateway" Version="3.0.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AL.Common.Data\AL.Common.Data.csproj" />
+    <ProjectReference Include="..\AL.Common.Tools\AL.Common.Tools.csproj" />
+  </ItemGroup>
+
+</Project>

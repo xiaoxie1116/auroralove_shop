@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>..\AL.User.WebApi\bin\Debug\netcoreapp3.1\AL.User.DTO.Models.xml</DocumentationFile>
+    <OutputPath></OutputPath>
+    <NoWarn>1701;1702;1591</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="AL.User.DTO.Models.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AL.Common.Base">
+      <HintPath>..\..\Library\Common\AL.Common.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="AL.Common.Data">
+      <HintPath>..\..\Library\Common\AL.Common.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="AL.Common.Tools">
+      <HintPath>..\..\Library\Common\AL.Common.Tools.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

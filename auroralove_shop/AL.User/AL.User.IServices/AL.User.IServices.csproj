@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AL.User.DB.Entitys\AL.User.DB.Entitys.csproj" />
+    <ProjectReference Include="..\AL.User.DTO.Models\AL.User.DTO.Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AL.Common.Base">
+      <HintPath>..\..\Library\Common\AL.Common.Base.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

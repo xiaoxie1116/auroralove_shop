@@ -1,0 +1,396 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.API\\AL.Common.API.csproj": {}
+  },
+  "projects": {
+    "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.API\\AL.Common.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.API\\AL.Common.API.csproj",
+        "projectName": "AL.Common.API",
+        "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.API\\AL.Common.API.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Base\\AL.Common.Base.csproj": {
+                "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Base\\AL.Common.Base.csproj"
+              },
+              "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj": {
+                "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "DotNetCore.CAP": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "DotNetCore.CAP.Dashboard": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "DotNetCore.CAP.MySql": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "DotNetCore.CAP.RabbitMQ": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "HtmlSanitizer": {
+              "target": "Package",
+              "version": "[5.0.355, )"
+            },
+            "MagicOnion": {
+              "target": "Package",
+              "version": "[3.0.13, )"
+            },
+            "MagicOnion.HttpGateway": {
+              "target": "Package",
+              "version": "[3.0.13, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Caching.Redis": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "MiniProfiler.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.4.1, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Base\\AL.Common.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Base\\AL.Common.Base.csproj",
+        "projectName": "AL.Common.Base",
+        "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Base\\AL.Common.Base.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Data\\AL.Common.Data.csproj": {
+                "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Data\\AL.Common.Data.csproj"
+              },
+              "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj": {
+                "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MagicOnion": {
+              "target": "Package",
+              "version": "[3.0.13, )"
+            },
+            "MagicOnion.HttpGateway": {
+              "target": "Package",
+              "version": "[3.0.13, )"
+            },
+            "MiniProfiler.Shared": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "sqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Data\\AL.Common.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Data\\AL.Common.Data.csproj",
+        "projectName": "AL.Common.Data",
+        "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Data\\AL.Common.Data.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj": {
+                "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj",
+        "projectName": "AL.Common.Tools",
+        "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Tools\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "CSRedisCore": {
+              "target": "Package",
+              "version": "[3.6.5, )"
+            },
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.5.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

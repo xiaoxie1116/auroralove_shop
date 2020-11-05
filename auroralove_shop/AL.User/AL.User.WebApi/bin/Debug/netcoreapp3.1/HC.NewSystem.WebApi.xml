@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AL.User.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:AL.User.WebApi.Startup.ConfigureContainer(Autofac.ContainerBuilder)">
+            <summary>
+            Autofac注册，注意在Program.CreateHostBuilder，添加Autofac服务工厂
+            </summary>
+            <param name="builder"></param>
+        </member>
+    </members>
+</doc>

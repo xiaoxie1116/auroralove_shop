@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AL.Common.API\AL.Common.API.csproj" />
+    <ProjectReference Include="..\AL.Common.Base\AL.Common.Base.csproj" />
+    <ProjectReference Include="..\AL.Common.Data\AL.Common.Data.csproj" />
+    <ProjectReference Include="..\AL.Common.Tools\AL.Common.Tools.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,115 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AL.User.WebApi", "AL.User.WebApi\AL.User.WebApi.csproj", "{AA774024-EE34-4A94-B1A6-14CCA5326E01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AL.User.IRepository", "AL.User.IRepository\AL.User.IRepository.csproj", "{1EDC3913-20D4-48CE-A1C6-8B71C3005261}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AL.User.Services", "AL.User.Services\AL.User.Services.csproj", "{8AC4D397-E990-4A5D-812C-87D0BAD75B31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AL.User.IServices", "AL.User.IServices\AL.User.IServices.csproj", "{79C9F412-2A3A-4071-9858-2C6DD3CDB7D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AL.User.DB.Entitys", "AL.User.DB.Entitys\AL.User.DB.Entitys.csproj", "{CC94DC90-651A-40FB-A6C7-C2B321F720A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AL.User.DTO.Models", "AL.User.DTO.Models\AL.User.DTO.Models.csproj", "{86EF6E2E-4B3B-4BF7-8B05-FF40FFDDC93E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AL.User.WebApi.Grpc", "AL.User.WebApi.Grpc\AL.User.WebApi.Grpc.csproj", "{29AF0D2B-E723-44E7-B3A4-2732B0881878}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AL.User.Grpc.Proxy", "AL.User.Grpc.Proxy\AL.User.Grpc.Proxy.csproj", "{8A4C4027-4A97-4DDB-A039-2CA94DBA33F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AL.User.Grpc.Client", "AL.User.Grpc.Client\AL.User.Grpc.Client.csproj", "{F4D76E37-187E-420E-B623-A0FC2732B483}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AL.User.Repository", "AL.User.Repository\AL.User.Repository.csproj", "{EDE8A709-1B76-4A6A-8336-CE84FC779B85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA774024-EE34-4A94-B1A6-14CCA5326E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA774024-EE34-4A94-B1A6-14CCA5326E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA774024-EE34-4A94-B1A6-14CCA5326E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA774024-EE34-4A94-B1A6-14CCA5326E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EDC3913-20D4-48CE-A1C6-8B71C3005261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDC3913-20D4-48CE-A1C6-8B71C3005261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDC3913-20D4-48CE-A1C6-8B71C3005261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDC3913-20D4-48CE-A1C6-8B71C3005261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC4D397-E990-4A5D-812C-87D0BAD75B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC4D397-E990-4A5D-812C-87D0BAD75B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC4D397-E990-4A5D-812C-87D0BAD75B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC4D397-E990-4A5D-812C-87D0BAD75B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C9F412-2A3A-4071-9858-2C6DD3CDB7D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C9F412-2A3A-4071-9858-2C6DD3CDB7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C9F412-2A3A-4071-9858-2C6DD3CDB7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C9F412-2A3A-4071-9858-2C6DD3CDB7D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC94DC90-651A-40FB-A6C7-C2B321F720A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC94DC90-651A-40FB-A6C7-C2B321F720A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC94DC90-651A-40FB-A6C7-C2B321F720A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC94DC90-651A-40FB-A6C7-C2B321F720A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86EF6E2E-4B3B-4BF7-8B05-FF40FFDDC93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EF6E2E-4B3B-4BF7-8B05-FF40FFDDC93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EF6E2E-4B3B-4BF7-8B05-FF40FFDDC93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EF6E2E-4B3B-4BF7-8B05-FF40FFDDC93E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29AF0D2B-E723-44E7-B3A4-2732B0881878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29AF0D2B-E723-44E7-B3A4-2732B0881878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29AF0D2B-E723-44E7-B3A4-2732B0881878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29AF0D2B-E723-44E7-B3A4-2732B0881878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A4C4027-4A97-4DDB-A039-2CA94DBA33F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4C4027-4A97-4DDB-A039-2CA94DBA33F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4C4027-4A97-4DDB-A039-2CA94DBA33F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4C4027-4A97-4DDB-A039-2CA94DBA33F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4D76E37-187E-420E-B623-A0FC2732B483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D76E37-187E-420E-B623-A0FC2732B483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D76E37-187E-420E-B623-A0FC2732B483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D76E37-187E-420E-B623-A0FC2732B483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE8A709-1B76-4A6A-8336-CE84FC779B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE8A709-1B76-4A6A-8336-CE84FC779B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE8A709-1B76-4A6A-8336-CE84FC779B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE8A709-1B76-4A6A-8336-CE84FC779B85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD6357FE-B358-47A1-8BE0-07C1B306D13C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://172.17.17.13:8080/tfs/hycodemanager
+		SccProjectUniqueName0 = AL.User.Grpc.Proxy\\AL.User.Grpc.Proxy.csproj
+		SccProjectName0 = AL.User.Grpc.Proxy
+		SccLocalPath0 = AL.User.Grpc.Proxy
+		SccProjectUniqueName1 = AL.User.WebApi\\AL.User.WebApi.csproj
+		SccProjectName1 = AL.User.WebApi
+		SccLocalPath1 = AL.User.WebApi
+		SccProjectUniqueName2 = AL.User.IServices\\AL.User.IServices.csproj
+		SccProjectName2 = AL.User.IServices
+		SccLocalPath2 = AL.User.IServices
+		SccProjectUniqueName3 = AL.User.IRepository\\AL.User.IRepository.csproj
+		SccProjectName3 = AL.User.IRepository
+		SccLocalPath3 = AL.User.IRepository
+		SccProjectUniqueName4 = AL.User.DB.Entitys\\AL.User.DB.Entitys.csproj
+		SccProjectName4 = AL.User.DB.Entitys
+		SccLocalPath4 = AL.User.DB.Entitys
+		SccProjectUniqueName5 = AL.User.DTO.Models\\AL.User.DTO.Models.csproj
+		SccProjectName5 = AL.User.DTO.Models
+		SccLocalPath5 = AL.User.DTO.Models
+		SccProjectUniqueName6 = AL.User.WebApi.Grpc\\AL.User.WebApi.Grpc.csproj
+		SccProjectName6 = AL.User.WebApi.Grpc
+		SccLocalPath6 = AL.User.WebApi.Grpc
+		SccProjectUniqueName7 = AL.User.Services\\AL.User.Services.csproj
+		SccProjectName7 = AL.User.Services
+		SccLocalPath7 = AL.User.Services
+		SccProjectUniqueName8 = AL.User.Grpc.Client\\AL.User.Grpc.Client.csproj
+		SccProjectName8 = AL.User.Grpc.Client
+		SccLocalPath8 = AL.User.Grpc.Client
+		SccProjectUniqueName9 = AL.User.Repository\\AL.User.Repository.csproj
+		SccProjectName9 = AL.User.Repository
+		SccLocalPath9 = AL.User.Repository
+		SccLocalPath10 = .
+	EndGlobalSection
+EndGlobal

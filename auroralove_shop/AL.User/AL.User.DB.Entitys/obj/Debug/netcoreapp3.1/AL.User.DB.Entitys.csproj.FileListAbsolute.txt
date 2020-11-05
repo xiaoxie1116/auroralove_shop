@@ -1,0 +1,15 @@
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.DB.Entitys\bin\Debug\netcoreapp3.1\AL.User.DB.Entitys.deps.json
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.DB.Entitys\bin\Debug\netcoreapp3.1\AL.User.DB.Entitys.dll
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.DB.Entitys\bin\Debug\netcoreapp3.1\AL.User.DB.Entitys.pdb
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.DB.Entitys\obj\Debug\netcoreapp3.1\AL.User.DB.Entitys.csprojAssemblyReference.cache
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.DB.Entitys\obj\Debug\netcoreapp3.1\AL.User.DB.Entitys.AssemblyInfoInputs.cache
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.DB.Entitys\obj\Debug\netcoreapp3.1\AL.User.DB.Entitys.AssemblyInfo.cs
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.DB.Entitys\obj\Debug\netcoreapp3.1\AL.User.DB.Entitys.csproj.CopyComplete
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.DB.Entitys\obj\Debug\netcoreapp3.1\AL.User.DB.Entitys.dll
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.DB.Entitys\obj\Debug\netcoreapp3.1\AL.User.DB.Entitys.pdb
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.DB.Entitys\bin\Debug\netcoreapp3.1\AL.Common.Base.dll
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.DB.Entitys\bin\Debug\netcoreapp3.1\AL.Common.Data.dll
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.DB.Entitys\bin\Debug\netcoreapp3.1\AL.Common.Tools.dll
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.DB.Entitys\bin\Debug\netcoreapp3.1\AL.Common.Base.pdb
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.DB.Entitys\bin\Debug\netcoreapp3.1\AL.Common.Data.pdb
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.DB.Entitys\bin\Debug\netcoreapp3.1\AL.Common.Tools.pdb

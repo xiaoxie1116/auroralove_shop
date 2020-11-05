@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="3.1.5" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AL.User.IRepository\AL.User.IRepository.csproj" />
+    <ProjectReference Include="..\AL.User.IServices\AL.User.IServices.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AL.Common.Base">
+      <HintPath>..\..\Library\Common\AL.Common.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="AL.Common.Data">
+      <HintPath>..\..\Library\Common\AL.Common.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="AL.Common.Tools">
+      <HintPath>..\..\Library\Common\AL.Common.Tools.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="AutoMapper\AddMapperExample.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
+</Project>
