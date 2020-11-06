@@ -1,8 +1,6 @@
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.csprojAssemblyReference.cache
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.AssemblyInfoInputs.cache
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.AssemblyInfo.cs
-E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.MvcApplicationPartsAssemblyInfo.cs
-E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.MvcApplicationPartsAssemblyInfo.cache
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\log4net.config
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -444,3 +442,9 @@ E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\run
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\AuroraLove\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.MvcApplicationPartsAssemblyInfo.cache
