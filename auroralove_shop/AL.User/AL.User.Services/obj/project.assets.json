@@ -7181,17 +7181,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj",
+      "projectUniqueName": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj",
       "projectName": "AL.User.Services",
-      "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj",
+      "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Services\\obj\\",
+      "outputPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.Services\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -7206,11 +7210,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IRepository\\AL.User.IRepository.csproj": {
-              "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IRepository\\AL.User.IRepository.csproj"
+            "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IRepository\\AL.User.IRepository.csproj": {
+              "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IRepository\\AL.User.IRepository.csproj"
             },
-            "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IServices\\AL.User.IServices.csproj": {
-              "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IServices\\AL.User.IServices.csproj"
+            "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IServices\\AL.User.IServices.csproj": {
+              "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IServices\\AL.User.IServices.csproj"
             }
           }
         }

@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj": {}
+    "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj": {}
   },
   "projects": {
-    "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\AL.User.DB.Entitys.csproj": {
+    "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\AL.User.DB.Entitys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\AL.User.DB.Entitys.csproj",
+        "projectUniqueName": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\AL.User.DB.Entitys.csproj",
         "projectName": "AL.User.DB.Entitys",
-        "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\AL.User.DB.Entitys.csproj",
+        "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\AL.User.DB.Entitys.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\obj\\",
+        "outputPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -62,15 +65,18 @@
         }
       }
     },
-    "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj": {
+    "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj",
+        "projectUniqueName": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj",
         "projectName": "AL.User.DTO.Models",
-        "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj",
+        "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\obj\\",
+        "outputPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -114,15 +120,18 @@
         }
       }
     },
-    "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IRepository\\AL.User.IRepository.csproj": {
+    "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IRepository\\AL.User.IRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IRepository\\AL.User.IRepository.csproj",
+        "projectUniqueName": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IRepository\\AL.User.IRepository.csproj",
         "projectName": "AL.User.IRepository",
-        "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IRepository\\AL.User.IRepository.csproj",
+        "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IRepository\\AL.User.IRepository.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IRepository\\obj\\",
+        "outputPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IRepository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -137,11 +146,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\AL.User.DB.Entitys.csproj": {
-                "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\AL.User.DB.Entitys.csproj"
+              "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\AL.User.DB.Entitys.csproj": {
+                "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\AL.User.DB.Entitys.csproj"
               },
-              "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj": {
-                "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj"
+              "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj": {
+                "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj"
               }
             }
           }
@@ -173,15 +182,18 @@
         }
       }
     },
-    "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IServices\\AL.User.IServices.csproj": {
+    "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IServices\\AL.User.IServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IServices\\AL.User.IServices.csproj",
+        "projectUniqueName": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IServices\\AL.User.IServices.csproj",
         "projectName": "AL.User.IServices",
-        "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IServices\\AL.User.IServices.csproj",
+        "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IServices\\AL.User.IServices.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IServices\\obj\\",
+        "outputPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IServices\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -196,11 +208,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\AL.User.DB.Entitys.csproj": {
-                "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\AL.User.DB.Entitys.csproj"
+              "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\AL.User.DB.Entitys.csproj": {
+                "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DB.Entitys\\AL.User.DB.Entitys.csproj"
               },
-              "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj": {
-                "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj"
+              "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj": {
+                "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.DTO.Models\\AL.User.DTO.Models.csproj"
               }
             }
           }
@@ -232,15 +244,18 @@
         }
       }
     },
-    "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj": {
+    "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj",
+        "projectUniqueName": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj",
         "projectName": "AL.User.Services",
-        "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj",
+        "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Services\\obj\\",
+        "outputPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -255,11 +270,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IRepository\\AL.User.IRepository.csproj": {
-                "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IRepository\\AL.User.IRepository.csproj"
+              "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IRepository\\AL.User.IRepository.csproj": {
+                "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IRepository\\AL.User.IRepository.csproj"
               },
-              "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IServices\\AL.User.IServices.csproj": {
-                "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.IServices\\AL.User.IServices.csproj"
+              "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IServices\\AL.User.IServices.csproj": {
+                "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.IServices\\AL.User.IServices.csproj"
               }
             }
           }
