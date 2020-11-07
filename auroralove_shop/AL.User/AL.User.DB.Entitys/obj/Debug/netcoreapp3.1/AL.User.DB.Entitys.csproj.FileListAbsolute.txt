@@ -25,7 +25,7 @@ G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DB.Entitys\bin\Deb
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DB.Entitys\obj\Debug\netcoreapp3.1\AL.User.DB.Entitys.csprojAssemblyReference.cache
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DB.Entitys\obj\Debug\netcoreapp3.1\AL.User.DB.Entitys.AssemblyInfoInputs.cache
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DB.Entitys\obj\Debug\netcoreapp3.1\AL.User.DB.Entitys.AssemblyInfo.cs
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DB.Entitys\obj\Debug\netcoreapp3.1\AL.User.DB.Entitys.csproj.CoreCompileInputs.cache
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DB.Entitys\obj\Debug\netcoreapp3.1\AL.User.DB.Entitys.csproj.CopyComplete
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DB.Entitys\obj\Debug\netcoreapp3.1\AL.User.DB.Entitys.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DB.Entitys\obj\Debug\netcoreapp3.1\AL.User.DB.Entitys.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DB.Entitys\obj\Debug\netcoreapp3.1\AL.User.DB.Entitys.csproj.CoreCompileInputs.cache

@@ -7,3 +7,13 @@ E:\AuroraLove\auroralove_shop\AL.User\AL.User.Grpc.Proxy\obj\Debug\netcoreapp3.1
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.Grpc.Proxy\obj\Debug\netcoreapp3.1\AL.User.Grpc.Proxy.AssemblyInfo.cs
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.Grpc.Proxy\obj\Debug\netcoreapp3.1\AL.User.Grpc.Proxy.dll
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.Grpc.Proxy\obj\Debug\netcoreapp3.1\AL.User.Grpc.Proxy.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Proxy\bin\Debug\netcoreapp3.1\AL.User.Grpc.Proxy.deps.json
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Proxy\bin\Debug\netcoreapp3.1\AL.User.Grpc.Proxy.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Proxy\bin\Debug\netcoreapp3.1\AL.User.Grpc.Proxy.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Proxy\bin\Debug\netcoreapp3.1\AL.User.Grpc.Proxy.xml
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Proxy\obj\Debug\netcoreapp3.1\AL.User.Grpc.Proxy.csprojAssemblyReference.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Proxy\obj\Debug\netcoreapp3.1\AL.User.Grpc.Proxy.AssemblyInfoInputs.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Proxy\obj\Debug\netcoreapp3.1\AL.User.Grpc.Proxy.AssemblyInfo.cs
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Proxy\obj\Debug\netcoreapp3.1\AL.User.Grpc.Proxy.csproj.CoreCompileInputs.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Proxy\obj\Debug\netcoreapp3.1\AL.User.Grpc.Proxy.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Proxy\obj\Debug\netcoreapp3.1\AL.User.Grpc.Proxy.pdb

@@ -1,0 +1,42 @@
+        <hr color=red />         日志级别：FATAL 记录时间：2020-11-07 15:52:35,173  记录类：Microsoft.AspNetCore.Server.Kestrel 线程ID：[1]        <br/>设备信息：{log4net:HostName=DESKTOP-T413THD, log4net:UserName=NOT AVAILABLE, log4net:Identity=NOT AVAILABLE}        <br/>日志信息：Unable to start Kestrel.           <br/>       System.FormatException: Invalid url: '6000'
+   at Microsoft.AspNetCore.Http.BindingAddress.Parse(String address)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.ParseAddress(String address, Boolean& https)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IServerAddressesFeature addresses, KestrelServerOptions serverOptions, ILogger logger, Func`2 createBinding)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+        <hr color=red />         日志级别：FATAL 记录时间：2020-11-07 15:53:00,692  记录类：Microsoft.AspNetCore.Server.Kestrel 线程ID：[1]        <br/>设备信息：{log4net:Identity=NOT AVAILABLE, log4net:HostName=DESKTOP-T413THD, log4net:UserName=NOT AVAILABLE}        <br/>日志信息：Unable to start Kestrel.           <br/>       System.FormatException: Invalid url: '6000'
+   at Microsoft.AspNetCore.Http.BindingAddress.Parse(String address)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.ParseAddress(String address, Boolean& https)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IServerAddressesFeature addresses, KestrelServerOptions serverOptions, ILogger logger, Func`2 createBinding)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+        <hr color=red />         日志级别：ERROR 记录时间：2020-11-07 15:54:34,559  记录类：Microsoft.AspNetCore.Server.Kestrel 线程ID：[16]        <br/>设备信息：{ParentId=, TraceId=a9308129-4fb44ff427d20835, RequestId=0HM42U9915OH5:00000005, RequestPath=/swagger/v1/swagger.json, log4net:Identity=NOT AVAILABLE, log4net:HostName=DESKTOP-T413THD, log4net:UserName=NOT AVAILABLE, SpanId=|a9308129-4fb44ff427d20835., ConnectionId=0HM42U9915OH5}        <br/>日志信息：Connection id "0HM42U9915OH5", Request id "0HM42U9915OH5:00000005": An unhandled exception was thrown by the application.           <br/>       System.NotSupportedException: Ambiguous HTTP method for action - AL.User.WebApi.Controllers.LoginController.Index (AL.User.WebApi). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+        <hr color=red />         日志级别：ERROR 记录时间：2020-11-07 15:59:04,485  记录类：Microsoft.AspNetCore.Server.Kestrel 线程ID：[7]        <br/>设备信息：{log4net:Identity=NOT AVAILABLE, log4net:UserName=NOT AVAILABLE, RequestPath=/swagger/v1/swagger.json, RequestId=0HM42UBPB3URG:00000002, SpanId=|252292d-45713dc25b0e81cb., TraceId=252292d-45713dc25b0e81cb, ConnectionId=0HM42UBPB3URG, ParentId=, log4net:HostName=DESKTOP-T413THD}        <br/>日志信息：Connection id "0HM42UBPB3URG", Request id "0HM42UBPB3URG:00000002": An unhandled exception was thrown by the application.           <br/>       System.NotSupportedException: Ambiguous HTTP method for action - AL.User.WebApi.Controllers.LoginController.Index (AL.User.WebApi). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+        <hr color=red />         日志级别：FATAL 记录时间：2020-11-07 16:19:48,236  记录类：Microsoft.AspNetCore.Server.Kestrel 线程ID：[1]        <br/>设备信息：{log4net:Identity=NOT AVAILABLE, log4net:HostName=DESKTOP-T413THD, log4net:UserName=NOT AVAILABLE}        <br/>日志信息：Unable to start Kestrel.           <br/>       System.FormatException: Invalid url: '6001'
+   at Microsoft.AspNetCore.Http.BindingAddress.Parse(String address)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.ParseAddress(String address, Boolean& https)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IServerAddressesFeature addresses, KestrelServerOptions serverOptions, ILogger logger, Func`2 createBinding)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+        <hr color=red />         日志级别：FATAL 记录时间：2020-11-07 16:20:02,357  记录类：Microsoft.AspNetCore.Server.Kestrel 线程ID：[1]        <br/>设备信息：{log4net:HostName=DESKTOP-T413THD, log4net:UserName=NOT AVAILABLE, log4net:Identity=NOT AVAILABLE}        <br/>日志信息：Unable to start Kestrel.           <br/>       System.FormatException: Invalid url: '6001'
+   at Microsoft.AspNetCore.Http.BindingAddress.Parse(String address)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.ParseAddress(String address, Boolean& https)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IServerAddressesFeature addresses, KestrelServerOptions serverOptions, ILogger logger, Func`2 createBinding)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+        <hr color=red />         日志级别：FATAL 记录时间：2020-11-07 16:20:30,733  记录类：Microsoft.AspNetCore.Server.Kestrel 线程ID：[1]        <br/>设备信息：{log4net:Identity=NOT AVAILABLE, log4net:HostName=DESKTOP-T413THD, log4net:UserName=NOT AVAILABLE}        <br/>日志信息：Unable to start Kestrel.           <br/>       System.FormatException: Invalid url: '51110'
+   at Microsoft.AspNetCore.Http.BindingAddress.Parse(String address)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.ParseAddress(String address, Boolean& https)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IServerAddressesFeature addresses, KestrelServerOptions serverOptions, ILogger logger, Func`2 createBinding)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)

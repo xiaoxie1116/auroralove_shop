@@ -1,0 +1,16 @@
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\bin\Release\netcoreapp3.1\AL.Common.API.deps.json
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\bin\Release\netcoreapp3.1\AL.Common.API.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\bin\Release\netcoreapp3.1\AL.Common.API.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\bin\Release\netcoreapp3.1\AL.Common.Base.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\bin\Release\netcoreapp3.1\AL.Common.Data.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\bin\Release\netcoreapp3.1\AL.Common.Tools.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\bin\Release\netcoreapp3.1\AL.Common.Base.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\bin\Release\netcoreapp3.1\AL.Common.Tools.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\bin\Release\netcoreapp3.1\AL.Common.Data.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\obj\Release\netcoreapp3.1\AL.Common.API.csprojAssemblyReference.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\obj\Release\netcoreapp3.1\AL.Common.API.AssemblyInfoInputs.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\obj\Release\netcoreapp3.1\AL.Common.API.AssemblyInfo.cs
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\obj\Release\netcoreapp3.1\AL.Common.API.csproj.CoreCompileInputs.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\obj\Release\netcoreapp3.1\AL.Common.API.csproj.CopyComplete
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\obj\Release\netcoreapp3.1\AL.Common.API.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.API\obj\Release\netcoreapp3.1\AL.Common.API.pdb

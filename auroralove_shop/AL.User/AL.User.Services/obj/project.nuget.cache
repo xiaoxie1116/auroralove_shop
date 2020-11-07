@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "49w9roummiuu3aolfatMzQTYdLwNmnFwqYIU48aqVW8FNra5zFnGSi4nVUHCQCScOWNOZZ9YEJkqkioJ3LH20A==",
+  "dgSpecHash": "xW/HRRpIR0R7GUclto87seZCEAZ/ZS4+a4objcxTlksnxnUqIbjEOm0E0QidCz6J5jEGMgQU5DMKZ4hb/3g2cQ==",
   "success": true,
   "projectFilePath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj",
   "expectedPackageFiles": [
@@ -34,9 +34,13 @@
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.7\\microsoft.extensions.configuration.3.1.7.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.7\\microsoft.extensions.configuration.abstractions.3.1.7.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.7\\microsoft.extensions.configuration.binder.3.1.7.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.2\\microsoft.extensions.configuration.fileextensions.3.1.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.2\\microsoft.extensions.configuration.json.3.1.2.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.7\\microsoft.extensions.fileproviders.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.2\\microsoft.extensions.fileproviders.physical.3.1.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.2\\microsoft.extensions.filesystemglobbing.3.1.2.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.7\\microsoft.extensions.hosting.abstractions.3.1.7.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.logging\\3.1.7\\microsoft.extensions.logging.3.1.7.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.7\\microsoft.extensions.logging.abstractions.3.1.7.nupkg.sha512",

@@ -11,3 +11,17 @@ E:\AuroraLove\auroralove_shop\AL.Common\AL.Common.Base\obj\Debug\netcoreapp3.1\A
 E:\AuroraLove\auroralove_shop\AL.Common\AL.Common.Base\obj\Debug\netcoreapp3.1\AL.Common.Base.csproj.CopyComplete
 E:\AuroraLove\auroralove_shop\AL.Common\AL.Common.Base\obj\Debug\netcoreapp3.1\AL.Common.Base.dll
 E:\AuroraLove\auroralove_shop\AL.Common\AL.Common.Base\obj\Debug\netcoreapp3.1\AL.Common.Base.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Base\bin\Debug\netcoreapp3.1\AL.Common.Base.deps.json
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Base\bin\Debug\netcoreapp3.1\AL.Common.Base.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Base\bin\Debug\netcoreapp3.1\AL.Common.Base.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Base\bin\Debug\netcoreapp3.1\AL.Common.Data.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Base\bin\Debug\netcoreapp3.1\AL.Common.Tools.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Base\bin\Debug\netcoreapp3.1\AL.Common.Data.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Base\bin\Debug\netcoreapp3.1\AL.Common.Tools.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Base\obj\Debug\netcoreapp3.1\AL.Common.Base.csprojAssemblyReference.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Base\obj\Debug\netcoreapp3.1\AL.Common.Base.AssemblyInfoInputs.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Base\obj\Debug\netcoreapp3.1\AL.Common.Base.AssemblyInfo.cs
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Base\obj\Debug\netcoreapp3.1\AL.Common.Base.csproj.CoreCompileInputs.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Base\obj\Debug\netcoreapp3.1\AL.Common.Base.csproj.CopyComplete
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Base\obj\Debug\netcoreapp3.1\AL.Common.Base.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Base\obj\Debug\netcoreapp3.1\AL.Common.Base.pdb

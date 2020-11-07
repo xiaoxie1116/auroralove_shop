@@ -32,6 +32,7 @@ namespace AL.User.WebApi
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+                    webBuilder.UseUrls("http://localhost:6001");
                 });
     }
 }

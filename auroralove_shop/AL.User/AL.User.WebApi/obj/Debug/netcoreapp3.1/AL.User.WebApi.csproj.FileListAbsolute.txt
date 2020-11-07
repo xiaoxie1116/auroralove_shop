@@ -375,9 +375,6 @@ G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\n
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.pdb
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.genruntimeconfig.cache
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.csproj.CoreCompileInputs.cache
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.MvcApplicationPartsAssemblyInfo.cs
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.MvcApplicationPartsAssemblyInfo.cache
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\AL.WebApi.xml
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\CSRedisCore.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\Grpc.Core.dll
@@ -411,3 +408,10 @@ G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\n
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\zh\DotNetCore.CAP.Dashboard.resources.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.csproj.CoreCompileInputs.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.MvcApplicationPartsAssemblyInfo.cs
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\obj\Debug\netcoreapp3.1\AL.User.WebApi.MvcApplicationPartsAssemblyInfo.cache

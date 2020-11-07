@@ -6,3 +6,12 @@ E:\AuroraLove\auroralove_shop\AL.User\AL.User.Grpc.Client\obj\Debug\netcoreapp3.
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.Grpc.Client\obj\Debug\netcoreapp3.1\AL.User.Grpc.Client.AssemblyInfo.cs
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.Grpc.Client\obj\Debug\netcoreapp3.1\AL.User.Grpc.Client.dll
 E:\AuroraLove\auroralove_shop\AL.User\AL.User.Grpc.Client\obj\Debug\netcoreapp3.1\AL.User.Grpc.Client.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Client\bin\Debug\netcoreapp3.1\AL.User.Grpc.Client.deps.json
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Client\bin\Debug\netcoreapp3.1\AL.User.Grpc.Client.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Client\bin\Debug\netcoreapp3.1\AL.User.Grpc.Client.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Client\obj\Debug\netcoreapp3.1\AL.User.Grpc.Client.csprojAssemblyReference.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Client\obj\Debug\netcoreapp3.1\AL.User.Grpc.Client.AssemblyInfoInputs.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Client\obj\Debug\netcoreapp3.1\AL.User.Grpc.Client.AssemblyInfo.cs
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Client\obj\Debug\netcoreapp3.1\AL.User.Grpc.Client.csproj.CoreCompileInputs.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Client\obj\Debug\netcoreapp3.1\AL.User.Grpc.Client.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.Grpc.Client\obj\Debug\netcoreapp3.1\AL.User.Grpc.Client.pdb

@@ -32,7 +32,7 @@ namespace AL.Common.Tools
             string location = Appsettings.GetSettingNode(new string[] { "Startup", "LocalSettings" });
             if (string.IsNullOrEmpty(location))
                 throw new Exception("配置全局的settings文件路径不存在，请配置相关路径！");
-            if (!File.Exists($"{location}\\appsettings.json"))
+            if (!Directory.Exists(location))
                 throw new Exception($"appsettings.json 文件不存在{location}文件下，请联系相关人员进行文件的配置！");
             return location;
         }

@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace AL.User.WebApi.Controllers
 {
     /// <summary>
-    /// 用户
+    /// 用户模块
     /// </summary>
     [Route("[controller]/[action]")]
     public class UserController : Controller

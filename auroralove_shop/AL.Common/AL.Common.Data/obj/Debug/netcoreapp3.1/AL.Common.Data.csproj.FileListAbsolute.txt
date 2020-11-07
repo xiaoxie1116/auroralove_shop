@@ -9,3 +9,15 @@ E:\AuroraLove\auroralove_shop\AL.Common\AL.Common.Data\obj\Debug\netcoreapp3.1\A
 E:\AuroraLove\auroralove_shop\AL.Common\AL.Common.Data\obj\Debug\netcoreapp3.1\AL.Common.Data.csproj.CopyComplete
 E:\AuroraLove\auroralove_shop\AL.Common\AL.Common.Data\obj\Debug\netcoreapp3.1\AL.Common.Data.dll
 E:\AuroraLove\auroralove_shop\AL.Common\AL.Common.Data\obj\Debug\netcoreapp3.1\AL.Common.Data.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Data\bin\Debug\netcoreapp3.1\AL.Common.Data.deps.json
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Data\bin\Debug\netcoreapp3.1\AL.Common.Data.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Data\bin\Debug\netcoreapp3.1\AL.Common.Data.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Data\bin\Debug\netcoreapp3.1\AL.Common.Tools.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Data\bin\Debug\netcoreapp3.1\AL.Common.Tools.pdb
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Data\obj\Debug\netcoreapp3.1\AL.Common.Data.csprojAssemblyReference.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Data\obj\Debug\netcoreapp3.1\AL.Common.Data.AssemblyInfoInputs.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Data\obj\Debug\netcoreapp3.1\AL.Common.Data.AssemblyInfo.cs
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Data\obj\Debug\netcoreapp3.1\AL.Common.Data.csproj.CoreCompileInputs.cache
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Data\obj\Debug\netcoreapp3.1\AL.Common.Data.csproj.CopyComplete
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Data\obj\Debug\netcoreapp3.1\AL.Common.Data.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Data\obj\Debug\netcoreapp3.1\AL.Common.Data.pdb
