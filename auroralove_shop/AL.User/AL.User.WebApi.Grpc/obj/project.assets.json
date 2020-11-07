@@ -676,7 +676,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "Microsoft.OpenApi/1.1.4": {
+      "Microsoft.OpenApi/1.2.2": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
@@ -3817,10 +3817,10 @@
         "runtime.json"
       ]
     },
-    "Microsoft.OpenApi/1.1.4": {
-      "sha512": "6SW0tpbJslc8LAY1XniRfLVcJa7bJUbbwvo2/ZRqfkMbJrsqIj9045vg3STtZhDhYRKhpYgjqGU11eeW4Pzyrg==",
+    "Microsoft.OpenApi/1.2.2": {
+      "sha512": "+diTWkzj9OSDKhZj56sUKu0F4N4yAu5j1pRSn3/2D8sD2gQcUyEncbDbqhe6SfRlZut2QytyH8zoaexrd1fKYw==",
       "type": "package",
-      "path": "microsoft.openapi/1.1.4",
+      "path": "microsoft.openapi/1.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3830,7 +3830,7 @@
         "lib/netstandard2.0/Microsoft.OpenApi.dll",
         "lib/netstandard2.0/Microsoft.OpenApi.pdb",
         "lib/netstandard2.0/Microsoft.OpenApi.xml",
-        "microsoft.openapi.1.1.4.nupkg.sha512",
+        "microsoft.openapi.1.2.2.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
     },
@@ -9029,22 +9029,27 @@
       "MessagePackAnalyzer >= 2.1.165",
       "Microsoft.Extensions.Caching.Redis >= 2.2.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 3.1.7",
+      "Microsoft.OpenApi >= 1.2.2",
       "MiniProfiler.AspNetCore.Mvc >= 4.2.1",
       "Swashbuckle.AspNetCore >= 5.4.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.WebApi.Grpc\\AL.User.WebApi.Grpc.csproj",
+      "projectUniqueName": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.WebApi.Grpc\\AL.User.WebApi.Grpc.csproj",
       "projectName": "AL.User.WebApi.Grpc",
-      "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.WebApi.Grpc\\AL.User.WebApi.Grpc.csproj",
+      "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.WebApi.Grpc\\AL.User.WebApi.Grpc.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.WebApi.Grpc\\obj\\",
+      "outputPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.WebApi.Grpc\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -9059,8 +9064,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj": {
-              "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj"
+            "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj": {
+              "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.User\\AL.User.Services\\AL.User.Services.csproj"
             }
           }
         }
@@ -9101,6 +9106,10 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": {
             "target": "Package",
             "version": "[3.1.7, )"
+          },
+          "Microsoft.OpenApi": {
+            "target": "Package",
+            "version": "[1.2.2, )"
           },
           "MiniProfiler.AspNetCore.Mvc": {
             "target": "Package",
