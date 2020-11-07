@@ -32,7 +32,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="HC.NewSystem.WebApi.xml" />
+    <None Remove="AL.NewSystem.WebApi.xml" />
     <None Remove="index.html" />
   </ItemGroup>
 
