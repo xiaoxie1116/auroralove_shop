@@ -3386,10 +3386,7 @@
         },
         "runtime": {
           "bin/placeholder/AL.Common.Data.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "AL.Common.Tools/1.0.0": {
         "type": "project",
@@ -10375,21 +10372,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.API\\AL.Common.API.csproj",
+      "projectUniqueName": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.Common\\AL.Common.API\\AL.Common.API.csproj",
       "projectName": "AL.Common.API",
-      "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.API\\AL.Common.API.csproj",
+      "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.Common\\AL.Common.API\\AL.Common.API.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.API\\obj\\",
+      "outputPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.Common\\AL.Common.API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -10404,11 +10397,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Base\\AL.Common.Base.csproj": {
-              "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Base\\AL.Common.Base.csproj"
+            "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.Common\\AL.Common.Base\\AL.Common.Base.csproj": {
+              "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.Common\\AL.Common.Base\\AL.Common.Base.csproj"
             },
-            "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj": {
-              "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj"
+            "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj": {
+              "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj"
             }
           }
         }

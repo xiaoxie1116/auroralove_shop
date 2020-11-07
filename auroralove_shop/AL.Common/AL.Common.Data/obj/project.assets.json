@@ -5857,21 +5857,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Data\\AL.Common.Data.csproj",
+      "projectUniqueName": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.Common\\AL.Common.Data\\AL.Common.Data.csproj",
       "projectName": "AL.Common.Data",
-      "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Data\\AL.Common.Data.csproj",
+      "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.Common\\AL.Common.Data\\AL.Common.Data.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Data\\obj\\",
+      "outputPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.Common\\AL.Common.Data\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -5886,8 +5882,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj": {
-              "projectPath": "E:\\AuroraLove\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj"
+            "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj": {
+              "projectPath": "G:\\auroralove\\auroralove_shop\\auroralove_shop\\AL.Common\\AL.Common.Tools\\AL.Common.Tools.csproj"
             }
           }
         }

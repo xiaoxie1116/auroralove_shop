@@ -22,6 +22,8 @@ namespace AL.Common.API.Extensions
         {
             if (services == null) throw new ArgumentNullException(nameof(services));
             var ApiName = Tools.Appsettings.GetSettingNode(new string[] { "Startup", "ApiName" });
+            var Name = Tools.Appsettings.GetSettingNode(new string[] { "Startup", "Name" });
+            var url = Tools.Appsettings.GetSettingNode(new string[] { "Startup", "WebSiteUrl" });
             services.AddSwaggerGen(c =>
             {
                 //遍历出全部的版本，做文档信息展示
@@ -31,9 +33,8 @@ namespace AL.Common.API.Extensions
                     {
                         Version = version,
                         Title = $"{ApiName} 接口文档——{RuntimeInformation.FrameworkDescription}",
-                        Description = $"华程国旅后台接口 " + version,
-                        Contact = new OpenApiContact { Name = ApiName, Email = "", Url = new Uri("http://test2.hytours.com/") },
-
+                        Description = Name + version,
+                        Contact = new OpenApiContact { Name = ApiName, Email = "", Url = new Uri(url) },
                     });
                     c.OrderActionsBy(o => o.RelativePath);
                 });
@@ -63,11 +64,11 @@ namespace AL.Common.API.Extensions
                     Description = "请直接在下框中输入请求头中需要添加的授权：Bearer {token}（注意两者之间是一个空格）\"",
                     Name = "Authorization",//jwt默认的参数名称
                     In = ParameterLocation.Header,//jwt默认存放Authorization信息的位置(请求头中)
-                    Type = SecuritySchemeType.ApiKey            
+                    Type = SecuritySchemeType.ApiKey
                 });
 
             });
-           
+
         }
     }
 }
