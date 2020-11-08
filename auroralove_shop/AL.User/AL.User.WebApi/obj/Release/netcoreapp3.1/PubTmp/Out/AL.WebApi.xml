@@ -9,6 +9,26 @@
             登录模块
             </summary>
         </member>
+        <member name="M:AL.User.WebApi.Controllers.LoginController.Login(AL.User.DTO.Models.LoginRequest)">
+            <summary>
+            用户登录
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AL.User.WebApi.Controllers.LoginController.RefreshToken">
+            <summary>
+            刷新token
+            </summary>     
+            <returns></returns>
+        </member>
+        <member name="M:AL.User.WebApi.Controllers.LoginController.CreateToken(AL.User.DTO.Models.UserInformation,System.DateTime@)">
+            <summary>
+            创建token
+            </summary>
+            <param name="users"></param>
+            <param name="expires"></param>
+            <returns></returns>     
+        </member>
         <member name="T:AL.User.WebApi.Controllers.UserController">
             <summary>
             用户模块

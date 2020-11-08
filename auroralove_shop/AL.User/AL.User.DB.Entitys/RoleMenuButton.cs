@@ -28,21 +28,21 @@ namespace AL.User.DB.Entitys
            /// Default:
            /// Nullable:True
            /// </summary>           
-           public int? FK_menu {get;set;}
+           public int? FK_MenuButton { get;set;}
 
            /// <summary>
            /// Desc:按钮外键
            /// Default:
            /// Nullable:True
            /// </summary>           
-           public int? FK_Operation {get;set;}
+           public int? FK_Role {get;set;}
 
            /// <summary>
            /// Desc:是否可用
            /// Default:
            /// Nullable:False
            /// </summary>           
-           public string IsVaild {get;set;}
+           public string IsValid {get;set;}
 
            /// <summary>
            /// Desc:创建人

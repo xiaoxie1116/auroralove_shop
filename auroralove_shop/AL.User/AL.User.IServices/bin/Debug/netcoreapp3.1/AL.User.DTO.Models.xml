@@ -4,5 +4,285 @@
         <name>AL.User.DTO.Models</name>
     </assembly>
     <members>
+        <member name="P:AL.User.DTO.Models.AddUserRequest.RoleId">
+            <summary>
+            角色Id
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.AddUserRequest.Birthday">
+            <summary>
+            Desc:生日
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.AddUserRequest.HeadImg">
+            <summary>
+            Desc:头像
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.AddUserRequest.Sex">
+            <summary>
+            Desc:性别
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.AddUserRequest.CityId">
+            <summary>
+            Desc:所在城市
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.AddUserRequest.ShopId">
+            <summary>
+            Desc:所在店铺
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.AddUserRequest.IsValid">
+            <summary>
+            是否启用
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.RegisterUser.UserName">
+            <summary>
+            Desc:用户昵称
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.RegisterUser.Pwd">
+            <summary>
+            Desc:密码
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.RegisterUser.Phone">
+            <summary>
+            Desc:电话号码
+            </summary>           
+        </member>
+        <member name="T:AL.User.DTO.Models.AuthorityModel">
+            <summary>
+            菜单权限集合
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.AuthorityModel.Childs">
+            <summary>
+            子集
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.MenuModel.ID">
+            <summary>
+            菜单ID
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.MenuModel.Name">
+            <summary>
+            菜单名称
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.MenuModel.ParentId">
+            <summary>
+            父ID
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.MenuModel.IsChecked">
+            <summary>
+            是否已经勾选  0 未勾选   1 已勾选（按钮）（（ 菜单） 2 部分勾选  3 全部勾选  ）
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.MenuModel.Type">
+            <summary>
+            1 菜单  2按钮
+            </summary>
+        </member>
+        <member name="T:AL.User.DTO.Models.AuthUserModel">
+            <summary>
+            权限
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.AuthUserModel.Menus">
+            <summary>
+            菜单集合
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.AuthUserModel.Buttons">
+            <summary>
+            按钮集合
+            </summary>
+        </member>
+        <member name="T:AL.User.DTO.Models.AuthMenuItem">
+            <summary>
+            菜单
+            </summary>
+        </member>
+        <member name="T:AL.User.DTO.Models.AuthMenuButton">
+            <summary>
+            菜单按钮 关联
+            </summary>
+        </member>
+        <member name="T:AL.User.DTO.Models.LoginRequest">
+            <summary>
+            用户登录
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.LoginRequest.Phone">
+            <summary>
+            手机号
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.LoginRequest.Pwd">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.LoginRequest.LoginType">
+            <summary>
+            1 后台登录  2 app登录
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.LoginInfo.Token">
+            <summary>
+            token信息
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.LoginInfo.ExpireTime">
+            <summary>
+            token过期时间
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.LoginInfo.UserInfo">
+            <summary>
+            用户信息
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.ID">
+            <summary>
+            用户ID
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.UserName">
+            <summary>
+            用户昵称
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.Pwd">
+            <summary>
+            密码 MD5加密
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.Phone">
+            <summary>
+            电话号码
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.Birthday">
+            <summary>
+            Desc:生日
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.HeadImg">
+            <summary>
+            Desc:头像
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.Sex">
+            <summary>
+            Desc:性别
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.FK_Citys">
+            <summary>
+            Desc:所在城市
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.FK_Shop">
+            <summary>
+            Desc:所在店铺
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.Sign">
+            <summary>
+            Desc:签名
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.Level">
+            <summary>
+            Desc:会员等级
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.RoleType">
+            <summary>
+            角色类型
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserListRequest.Name">
+            <summary>
+            用户名或者手机号
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserListRequest.Shop">
+            <summary>
+            所在店铺
+            </summary>
+        </member>
+        <member name="T:AL.User.DTO.Models.UserListResponse">
+            <summary>
+            用户列表
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserListResponse.UserName">
+            <summary>
+            Desc:用户昵称
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserListResponse.Phone">
+            <summary>
+            Desc:电话号码
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserListResponse.UserType">
+            <summary>
+            用户类型  1 B端用户  2 C端用户
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserListResponse.RoleID">
+            <summary>
+            角色ID
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserListResponse.RoleName">
+            <summary>
+            角色名称
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserListResponse.Birthday">
+            <summary>
+            Desc:生日
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserListResponse.Sex">
+            <summary>
+            Desc:性别
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserListResponse.Level">
+            <summary>
+            Desc:会员等级
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserListResponse.LoginLastTime">
+            <summary>
+            登录时间
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserListResponse.CityName">
+            <summary>
+            所在城市
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserListResponse.ShopName">
+            <summary>
+            所在店铺
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserListResponse.IsValid">
+            <summary>
+            Desc:是否可用
+            </summary>           
+        </member>
     </members>
 </doc>

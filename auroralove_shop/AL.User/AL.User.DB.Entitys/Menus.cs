@@ -20,7 +20,7 @@ namespace AL.User.DB.Entitys
            /// Default:
            /// Nullable:False
            /// </summary>           
-           [SugarColumn(IsPrimaryKey=true,IsIdentity=true)]
+           [SugarColumn(IsPrimaryKey=true)]
            public int ID {get;set;}
 
            /// <summary>
@@ -28,7 +28,7 @@ namespace AL.User.DB.Entitys
            /// Default:
            /// Nullable:True
            /// </summary>           
-           public int? SourceID {get;set;}
+           public int SourceID {get;set;}
 
            /// <summary>
            /// Desc:名称
@@ -70,7 +70,7 @@ namespace AL.User.DB.Entitys
            /// Default:
            /// Nullable:False
            /// </summary>           
-           public string IsVaild {get;set;}
+           public string IsValid {get;set;}
 
            /// <summary>
            /// Desc:创建人

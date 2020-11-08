@@ -1,7 +1,6 @@
 G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Tools\bin\Release\netcoreapp3.1\AL.Common.Tools.deps.json
 G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Tools\bin\Release\netcoreapp3.1\AL.Common.Tools.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Tools\bin\Release\netcoreapp3.1\AL.Common.Tools.pdb
-G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Tools\obj\Release\netcoreapp3.1\AL.Common.Tools.csprojAssemblyReference.cache
 G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Tools\obj\Release\netcoreapp3.1\AL.Common.Tools.AssemblyInfoInputs.cache
 G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Tools\obj\Release\netcoreapp3.1\AL.Common.Tools.AssemblyInfo.cs
 G:\auroralove\auroralove_shop\auroralove_shop\AL.Common\AL.Common.Tools\obj\Release\netcoreapp3.1\AL.Common.Tools.csproj.CoreCompileInputs.cache

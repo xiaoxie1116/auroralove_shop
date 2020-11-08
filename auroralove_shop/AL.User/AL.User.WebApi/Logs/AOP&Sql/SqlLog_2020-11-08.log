@@ -1,0 +1,118 @@
+--------------------------------
+ 2020-11-08 00:12:38|
+ 【SQL参数】： @Phone0:17343
+ @IsVaild1:T
+
+【SQL语句】：SELECT `ID`,`UserName`,`Pwd`,`Phone`,`Birthday`,`HeadImg`,`Sex`,`FK_Citys`,`FK_Shop`,`Sign`,`Level`,`LoginLastTime`,`IsVaild`,`CreateUser`,`CreateTime`,`ModifyUser`,`ModifyTime` FROM `Users`  WHERE (( `Phone` = @Phone0 ) AND ( `IsVaild` = @IsVaild1 )) 
+--------------------------------
+ 2020-11-08 00:13:50|
+ 【SQL参数】： @Phone0:17343
+ @IsVaild1:T
+
+【SQL语句】：SELECT `ID`,`UserName`,`Pwd`,`Phone`,`Birthday`,`HeadImg`,`Sex`,`FK_Citys`,`FK_Shop`,`Sign`,`Level`,`LoginLastTime`,`IsVaild`,`CreateUser`,`CreateTime`,`ModifyUser`,`ModifyTime` FROM `Users`  WHERE (( `Phone` = @Phone0 ) AND ( `IsVaild` = @IsVaild1 )) 
+--------------------------------
+ 2020-11-08 00:14:20|
+ 【SQL参数】： @Phone0:17317146018
+ @IsVaild1:T
+
+【SQL语句】：SELECT `ID`,`UserName`,`Pwd`,`Phone`,`Birthday`,`HeadImg`,`Sex`,`FK_Citys`,`FK_Shop`,`Sign`,`Level`,`LoginLastTime`,`IsVaild`,`CreateUser`,`CreateTime`,`ModifyUser`,`ModifyTime` FROM `Users`  WHERE (( `Phone` = @Phone0 ) AND ( `IsVaild` = @IsVaild1 )) 
+--------------------------------
+ 2020-11-08 00:14:22|
+ 【SQL参数】： @ID:7
+ @LoginLastTime:2020-11-08 00:14:22
+
+【SQL语句】：UPDATE `Users`  SET
+           `LoginLastTime`=@LoginLastTime  WHERE `ID`=@ID
+--------------------------------
+ 2020-11-08 00:14:24|
+ 【SQL参数】： @FK_User0:7
+ @IsValid1:T
+
+【SQL语句】：SELECT u.* FROM `UserRole` ur Inner JOIN `Roles` u ON ( `ur`.`FK_Role` = `u`.`ID` )   WHERE (( @FK_User0 = `ur`.`FK_User` ) AND ( `u`.`IsValid` = @IsValid1 )) 
+--------------------------------
+ 2020-11-08 00:15:18|
+ 【SQL参数】： @Phone0:17317146018
+ @IsVaild1:T
+
+【SQL语句】：SELECT `ID`,`UserName`,`Pwd`,`Phone`,`Birthday`,`HeadImg`,`Sex`,`FK_Citys`,`FK_Shop`,`Sign`,`Level`,`LoginLastTime`,`IsVaild`,`CreateUser`,`CreateTime`,`ModifyUser`,`ModifyTime` FROM `Users`  WHERE (( `Phone` = @Phone0 ) AND ( `IsVaild` = @IsVaild1 )) 
+--------------------------------
+ 2020-11-08 00:15:19|
+ 【SQL参数】： @ID:7
+ @LoginLastTime:2020-11-08 00:15:19
+
+【SQL语句】：UPDATE `Users`  SET
+           `LoginLastTime`=@LoginLastTime  WHERE `ID`=@ID
+--------------------------------
+ 2020-11-08 00:15:38|
+ 【SQL参数】： @FK_User0:7
+ @IsValid1:T
+
+【SQL语句】：SELECT u.* FROM `UserRole` ur Inner JOIN `Roles` u ON ( `ur`.`FK_Role` = `u`.`ID` )   WHERE (( @FK_User0 = `ur`.`FK_User` ) AND ( `u`.`IsValid` = @IsValid1 )) 
+--------------------------------
+ 2020-11-08 00:19:16|
+ 【SQL参数】： @Phone0:17317146018
+ @IsValid1:T
+
+【SQL语句】：SELECT `ID`,`UserName`,`Pwd`,`Phone`,`Birthday`,`HeadImg`,`Sex`,`FK_Citys`,`FK_Shop`,`Sign`,`Level`,`LoginLastTime`,`IsValid`,`CreateUser`,`CreateTime`,`ModifyUser`,`ModifyTime` FROM `Users`  WHERE (( `Phone` = @Phone0 ) AND ( `IsValid` = @IsValid1 )) 
+--------------------------------
+ 2020-11-08 00:20:16|
+ 【SQL参数】： @Phone0:17317146018
+ @IsValid1:T
+
+【SQL语句】：SELECT `ID`,`UserName`,`Pwd`,`Phone`,`Birthday`,`HeadImg`,`Sex`,`FK_Citys`,`FK_Shop`,`Sign`,`Level`,`LoginLastTime`,`IsValid`,`CreateUser`,`CreateTime`,`ModifyUser`,`ModifyTime` FROM `Users`  WHERE (( `Phone` = @Phone0 ) AND ( `IsValid` = @IsValid1 )) 
+--------------------------------
+ 2020-11-08 00:20:17|
+ 【SQL参数】： @ID:7
+ @LoginLastTime:2020-11-08 00:20:17
+
+【SQL语句】：UPDATE `Users`  SET
+           `LoginLastTime`=@LoginLastTime  WHERE `ID`=@ID
+--------------------------------
+ 2020-11-08 00:20:20|
+ 【SQL参数】： @FK_User0:7
+ @IsValid1:T
+
+【SQL语句】：SELECT u.* FROM `UserRole` ur Inner JOIN `Roles` u ON ( `ur`.`FK_Role` = `u`.`ID` )   WHERE (( @FK_User0 = `ur`.`FK_User` ) AND ( `u`.`IsValid` = @IsValid1 )) 
+--------------------------------
+ 2020-11-08 00:20:29|
+ 【SQL参数】： @ID:0
+ @FK_User:7
+ @Guid:76f98ecc-e619-418c-80c5-5887259bbd31
+ @ExpireTime:2021-05-24 22:20:29
+ @CreateTime:2020-11-08 00:20:29
+
+【SQL语句】：INSERT INTO `usertokenrecord`  
+           (`ID`,`FK_User`,`Guid`,`ExpireTime`,`CreateTime`)
+     VALUES
+           (@ID,@FK_User,@Guid,@ExpireTime,@CreateTime) ;SELECT LAST_INSERT_ID();
+--------------------------------
+ 2020-11-08 00:21:03|
+ 【SQL参数】： @Phone0:17317146018
+ @IsValid1:T
+
+【SQL语句】：SELECT `ID`,`UserName`,`Pwd`,`Phone`,`Birthday`,`HeadImg`,`Sex`,`FK_Citys`,`FK_Shop`,`Sign`,`Level`,`LoginLastTime`,`IsValid`,`CreateUser`,`CreateTime`,`ModifyUser`,`ModifyTime` FROM `Users`  WHERE (( `Phone` = @Phone0 ) AND ( `IsValid` = @IsValid1 )) 
+--------------------------------
+ 2020-11-08 00:21:03|
+ 【SQL参数】： @ID:1
+ @LoginLastTime:2020-11-08 00:21:03
+
+【SQL语句】：UPDATE `Users`  SET
+           `LoginLastTime`=@LoginLastTime  WHERE `ID`=@ID
+--------------------------------
+ 2020-11-08 00:21:06|
+ 【SQL参数】： @FK_User0:1
+ @IsValid1:T
+
+【SQL语句】：SELECT u.* FROM `UserRole` ur Inner JOIN `Roles` u ON ( `ur`.`FK_Role` = `u`.`ID` )   WHERE (( @FK_User0 = `ur`.`FK_User` ) AND ( `u`.`IsValid` = @IsValid1 )) 
+--------------------------------
+ 2020-11-08 00:21:09|
+ 【SQL参数】： @ID:0
+ @FK_User:1
+ @Guid:68688660-7bc6-40db-a159-d20991f7fe50
+ @ExpireTime:2021-05-24 22:21:09
+ @CreateTime:2020-11-08 00:21:09
+
+【SQL语句】：INSERT INTO `usertokenrecord`  
+           (`ID`,`FK_User`,`Guid`,`ExpireTime`,`CreateTime`)
+     VALUES
+           (@ID,@FK_User,@Guid,@ExpireTime,@CreateTime) ;SELECT LAST_INSERT_ID();

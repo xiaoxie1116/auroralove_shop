@@ -9,10 +9,16 @@ using System.Threading.Tasks;
 
 namespace AL.User.IRepository
 {
-	public interface IUserRoleRepository : IBaseRepository<UserRole>
-	{
+    public interface IUserRoleRepository : IBaseRepository<UserRole>
+    {
+        Task<List<Roles>> GetRoleListByUserIDs(int Id);
 
-	}
+        Task<List<UserAuthComplex>> GetUserAuth(int userId);
+
+        Task<Dictionary<int, int>> GetUserCountByRoleID(List<int> roleID);
+
+        Task<List<int>> GetUserCountByRoleID(int roleID);
+    }
 }
 
 

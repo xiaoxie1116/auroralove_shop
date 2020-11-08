@@ -203,10 +203,6 @@ G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Release
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Release\netcoreapp3.1\AL.User.DB.Entitys.pdb
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Release\netcoreapp3.1\AL.User.DTO.Models.pdb
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Release\netcoreapp3.1\AL.User.IRepository.pdb
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Release\netcoreapp3.1\AL.Common.API.pdb
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Release\netcoreapp3.1\AL.Common.Base.pdb
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Release\netcoreapp3.1\AL.Common.Data.pdb
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Release\netcoreapp3.1\AL.Common.Tools.pdb
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\obj\Release\netcoreapp3.1\AL.User.WebApi.csprojAssemblyReference.cache
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\obj\Release\netcoreapp3.1\AL.User.WebApi.AssemblyInfoInputs.cache
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\obj\Release\netcoreapp3.1\AL.User.WebApi.AssemblyInfo.cs
@@ -226,3 +222,4 @@ G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Release
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi\bin\Release\netcoreapp3.1\Dockerfile

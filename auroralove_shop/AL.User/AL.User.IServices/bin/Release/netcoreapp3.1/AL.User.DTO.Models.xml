@@ -4,5 +4,95 @@
         <name>AL.User.DTO.Models</name>
     </assembly>
     <members>
+        <member name="T:AL.User.DTO.Models.LoginRequest">
+            <summary>
+            用户登录
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.LoginRequest.Phone">
+            <summary>
+            手机号
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.LoginRequest.Pwd">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.LoginInfo.Token">
+            <summary>
+            token信息
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.LoginInfo.ExpireTime">
+            <summary>
+            token过期时间
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.LoginInfo.UserInfo">
+            <summary>
+            用户信息
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.ID">
+            <summary>
+            用户ID
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.UserName">
+            <summary>
+            用户昵称
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.Pwd">
+            <summary>
+            密码 MD5加密
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.Phone">
+            <summary>
+            电话号码
+            </summary>
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.Birthday">
+            <summary>
+            Desc:生日
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.HeadImg">
+            <summary>
+            Desc:头像
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.Sex">
+            <summary>
+            Desc:性别
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.FK_Citys">
+            <summary>
+            Desc:所在城市
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.FK_Shop">
+            <summary>
+            Desc:所在店铺
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.Sign">
+            <summary>
+            Desc:签名
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.Level">
+            <summary>
+            Desc:会员等级
+            </summary>           
+        </member>
+        <member name="P:AL.User.DTO.Models.UserInformation.RoleType">
+            <summary>
+            角色类型
+            </summary>
+        </member>
     </members>
 </doc>

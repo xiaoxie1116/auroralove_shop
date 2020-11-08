@@ -145,9 +145,13 @@ G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\De
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
@@ -217,10 +221,6 @@ G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\De
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\AL.User.DTO.Models.xml
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\AL.User.IRepository.pdb
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\AL.User.IServices.pdb
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\AL.Common.API.pdb
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\AL.Common.Base.pdb
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\AL.Common.Tools.pdb
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\AL.Common.Data.pdb
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\obj\Debug\netcoreapp3.1\AL.User.WebApi.Grpc.csprojAssemblyReference.cache
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\obj\Debug\netcoreapp3.1\AL.User.WebApi.Grpc.AssemblyInfoInputs.cache
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\obj\Debug\netcoreapp3.1\AL.User.WebApi.Grpc.AssemblyInfo.cs
@@ -234,7 +234,3 @@ G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\obj\De
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\obj\Debug\netcoreapp3.1\AL.User.WebApi.Grpc.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\obj\Debug\netcoreapp3.1\AL.User.WebApi.Grpc.pdb
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\obj\Debug\netcoreapp3.1\AL.User.WebApi.Grpc.genruntimeconfig.cache
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.WebApi.Grpc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll

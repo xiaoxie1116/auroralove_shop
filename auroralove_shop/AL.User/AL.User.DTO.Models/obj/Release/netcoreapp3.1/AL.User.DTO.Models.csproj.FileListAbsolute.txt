@@ -4,9 +4,6 @@ G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DTO.Models\bin\Rel
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DTO.Models\bin\Release\netcoreapp3.1\AL.Common.Base.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DTO.Models\bin\Release\netcoreapp3.1\AL.Common.Data.dll
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DTO.Models\bin\Release\netcoreapp3.1\AL.Common.Tools.dll
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DTO.Models\bin\Release\netcoreapp3.1\AL.Common.Base.pdb
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DTO.Models\bin\Release\netcoreapp3.1\AL.Common.Data.pdb
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DTO.Models\bin\Release\netcoreapp3.1\AL.Common.Tools.pdb
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DTO.Models\obj\Release\netcoreapp3.1\AL.User.DTO.Models.csprojAssemblyReference.cache
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DTO.Models\obj\Release\netcoreapp3.1\AL.User.DTO.Models.AssemblyInfoInputs.cache
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.DTO.Models\obj\Release\netcoreapp3.1\AL.User.DTO.Models.AssemblyInfo.cs

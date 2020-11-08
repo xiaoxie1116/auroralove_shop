@@ -42,7 +42,7 @@ namespace AL.User.DB.Entitys
            /// Default:
            /// Nullable:False
            /// </summary>           
-           public string IsVaild {get;set;}
+           public string IsValid {get;set;}
 
            /// <summary>
            /// Desc:创建人

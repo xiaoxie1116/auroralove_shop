@@ -59,13 +59,9 @@ namespace AL.Common.Base
                     user.UserID = (_principalAccessor.Principal?.Claims.FirstOrDefault(c => c.Type == JwtClaimTypes.Id)?.Value).ObjToInt();
                     user.UserName = _principalAccessor.Principal?.Claims.FirstOrDefault(c => c.Type == JwtClaimTypes.Name)?.Value;
                     user.Phone = _principalAccessor.Principal?.Claims.FirstOrDefault(c => c.Type == JwtClaimTypes.PhoneNumber)?.Value;
-                    user.CompanyID = (_principalAccessor.Principal?.Claims.FirstOrDefault(c => c.Type == ClaimConsts.CompanyID)?.Value).ObjToInt();
-                    user.ErpCompanyID = (_principalAccessor.Principal?.Claims.FirstOrDefault(c => c.Type == ClaimConsts.Erp_CompanyID)?.Value).ObjToInt();
-                    user.ErpDepartment = (_principalAccessor.Principal?.Claims.FirstOrDefault(c => c.Type == ClaimConsts.Erp_Department)?.Value).ObjToInt();
-                    user.UserType = (_principalAccessor.Principal?.Claims.FirstOrDefault(c => c.Type == ClaimConsts.UserType)?.Value).ObjToInt();
                     user.RoleType = (_principalAccessor.Principal?.Claims.FirstOrDefault(c => c.Type == ClaimConsts.RoleType)?.Value).ObjToInt();
                     user.JwtId = _principalAccessor.Principal?.Claims.FirstOrDefault(c => c.Type == JwtClaimTypes.JwtId)?.Value;
-                    user.Status = (_principalAccessor.Principal?.Claims.FirstOrDefault(c => c.Type == ClaimConsts.Status)?.Value).ObjToInt();
+                    user.City = (_principalAccessor.Principal?.Claims.FirstOrDefault(c => c.Type == ClaimConsts.City)?.Value).ObjToInt();
                 }
                 return user;
             }
@@ -85,27 +81,6 @@ namespace AL.Common.Base
         public string Phone { get; set; }
 
         /// <summary>
-        /// 公司ID
-        /// </summary>
-        public int? CompanyID { get; set; }
-
-        /// <summary>
-        /// 用户名称
-        /// </summary>
-        public string UserName { get; set; }
-
-        /// <summary>
-        /// ERP-公司ID
-        /// </summary>
-        public int? ErpCompanyID { get; set; }
-
-        public int? ErpDepartment { get; set; }
-        /// <summary>
-        /// 用户类型
-        /// </summary>
-        public int? UserType { get; set; }
-
-        /// <summary>
         /// 角色类型
         /// </summary>
         public int? RoleType { get; set; }
@@ -116,9 +91,14 @@ namespace AL.Common.Base
         public string JwtId { get; set; }
 
         /// <summary>
-        /// （1 正常 2 停用 4 冻结  ）
+        /// 用户昵称
         /// </summary>
-        public int? Status { get; set; }
+        public string UserName { get; set; }
+
+        /// <summary>
+        /// 所在城市
+        /// </summary>
+        public int City { get; set; }
     }
 
 }

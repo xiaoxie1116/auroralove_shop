@@ -28,7 +28,7 @@ namespace AL.User.DB.Entitys
            /// Default:
            /// Nullable:True
            /// </summary>           
-           public string FK_Menu {get;set;}
+           public int FK_Menu {get;set;}
 
            /// <summary>
            /// Desc:按钮名称
@@ -63,7 +63,7 @@ namespace AL.User.DB.Entitys
            /// Default:
            /// Nullable:False
            /// </summary>           
-           public string IsVaild {get;set;}
+           public string IsValid {get;set;}
 
            /// <summary>
            /// Desc:创建人

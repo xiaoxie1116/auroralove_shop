@@ -9,6 +9,19 @@ namespace AL.User.IServices
 {
 	 public interface IRolesServices : IBaseServices<Roles>
 	 {
- 
-	 }
+        /// <summary>
+        /// 角色列表
+        /// </summary>
+        /// <param name="request"></param>
+        /// <returns></returns>
+        Task<PageModel<RoleListResponse>> RoleList(RoleListRequest request);
+
+        /// <summary>
+        /// 新增
+        /// </summary>
+        /// <param name="request"></param>
+        /// <returns></returns>
+        Task<bool> AddOrEditRole(RoleModelRequest request);
+
+    }
 }

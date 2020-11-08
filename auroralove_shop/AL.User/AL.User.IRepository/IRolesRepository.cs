@@ -11,7 +11,7 @@ namespace AL.User.IRepository
 {
 	public interface IRolesRepository : IBaseRepository<Roles>
 	{
-
+		Task<PageModel<Roles>> PageRoles(RoleListRequest request);
 	}
 }
 

@@ -7,8 +7,12 @@ using AL.User.DTO.Models;
 
 namespace AL.User.IServices
 {
-	 public interface IRoleMenuServices : IBaseServices<RoleMenu>
-	 {
- 
-	 }
+    public interface IRoleMenuServices : IBaseServices<RoleMenu>
+    {
+        /// <summary>
+        /// 获取用户菜单权限
+        /// </summary>
+        /// <returns></returns>
+        Task<AuthUserModel> GetUserAuth();
+    }
 }

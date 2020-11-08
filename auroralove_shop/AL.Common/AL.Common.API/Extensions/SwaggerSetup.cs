@@ -33,8 +33,8 @@ namespace AL.Common.API.Extensions
                     {
                         Version = version,
                         Title = $"{ApiName} 接口文档——{RuntimeInformation.FrameworkDescription}",
-                        Description = Name + version,
-                        Contact = new OpenApiContact { Name = ApiName, Email = "", Url = new Uri(url) },
+                        Description = $"极光萝恋电子商务平台 -- {version}",
+                        Contact = new OpenApiContact { Name = "管理后台", Email = "", Url = new Uri(url) }
                     });
                     c.OrderActionsBy(o => o.RelativePath);
                 });
@@ -42,9 +42,9 @@ namespace AL.Common.API.Extensions
                 try
                 {
                     // 为 Swagger JSON and UI设置xml文档注释路径
-                    var xmlPath = Path.Combine(basePath, webApiXml);//"HC.NewSystem.WebApi.xml"
+                    var xmlPath = Path.Combine(basePath, webApiXml);
                     c.IncludeXmlComments(xmlPath, true);
-                    var xmlModelPath = Path.Combine(basePath, ModelXml); // "HC.Core.DTO.Models.xml"   Model实体注释                  
+                    var xmlModelPath = Path.Combine(basePath, ModelXml); //Model实体注释                  
                     c.IncludeXmlComments(xmlModelPath);
                 }
                 catch (Exception ex)

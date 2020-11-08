@@ -29,9 +29,6 @@ G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.IRepository\bin\De
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.IRepository\bin\Debug\netcoreapp3.1\AL.User.DB.Entitys.pdb
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.IRepository\bin\Debug\netcoreapp3.1\AL.User.DTO.Models.pdb
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.IRepository\bin\Debug\netcoreapp3.1\AL.User.DTO.Models.xml
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.IRepository\bin\Debug\netcoreapp3.1\AL.Common.Base.pdb
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.IRepository\bin\Debug\netcoreapp3.1\AL.Common.Data.pdb
-G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.IRepository\bin\Debug\netcoreapp3.1\AL.Common.Tools.pdb
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.IRepository\obj\Debug\netcoreapp3.1\AL.User.IRepository.csprojAssemblyReference.cache
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.IRepository\obj\Debug\netcoreapp3.1\AL.User.IRepository.AssemblyInfoInputs.cache
 G:\auroralove\auroralove_shop\auroralove_shop\AL.User\AL.User.IRepository\obj\Debug\netcoreapp3.1\AL.User.IRepository.AssemblyInfo.cs

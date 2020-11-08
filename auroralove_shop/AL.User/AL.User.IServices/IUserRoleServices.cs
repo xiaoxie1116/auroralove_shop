@@ -7,8 +7,9 @@ using AL.User.DTO.Models;
 
 namespace AL.User.IServices
 {
-	 public interface IUserRoleServices : IBaseServices<UserRole>
-	 {
- 
-	 }
+    public interface IUserRoleServices : IBaseServices<UserRole>
+    {
+
+        Task<int?> GetRoleTypeByUserIDs(int Id);
+    }
 }

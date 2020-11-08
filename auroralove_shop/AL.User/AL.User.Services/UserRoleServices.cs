@@ -4,15 +4,24 @@ using AL.User.DB.Entitys;
 using AL.User.DTO.Models;
 using AL.User.IRepository;
 using AL.User.IServices;
+using System.Threading.Tasks;
+using System.Linq;
 
 namespace AL.User.Services
 {
-	public class UserRoleServices : BaseServices<UserRole>, IUserRoleServices
+    public class UserRoleServices : BaseServices<UserRole>, IUserRoleServices
     {
-        IUserRoleRepository _UserRoleRepository;
-		public  UserRoleServices(IUserRoleRepository UserRoleRepository)
+        IUserRoleRepository _userRoleRepository;
+        public UserRoleServices(IUserRoleRepository UserRoleRepository)
         {
-            _UserRoleRepository =UserRoleRepository;           
+            _userRoleRepository = UserRoleRepository;
+            this.BaseDal = UserRoleRepository;
         }
-	}
+
+        public async Task<int?> GetRoleTypeByUserIDs(int Id)
+        {
+            return (await _userRoleRepository.GetRoleListByUserIDs(Id))?.FirstOrDefault()?.RoleType;
+        }
+
+    }
 }
